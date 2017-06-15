@@ -12,6 +12,8 @@ using namespace SHADING;
 using namespace FONTING;
 using namespace JSON_PARSING;
 
+// git is awesome
+
 int main() {
 	Program_Config program_config{get_Program_Config()};
 	if (program_config.hide_console)
