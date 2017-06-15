@@ -15,7 +15,7 @@ using namespace JSON_PARSING;
 // git is awesome 2
 // RAndom comment
 
-// A new comment
+// new comment
 
 int main() {
 	Program_Config program_config{get_Program_Config()};
