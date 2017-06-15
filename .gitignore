@@ -1,6 +1,9 @@
 ﻿# Prerequisites
 *.d
 
+# Android files
+*.apk
+
 # Compiled Object files
 *.slo
 *.lo
